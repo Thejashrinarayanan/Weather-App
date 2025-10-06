@@ -1,0 +1,49 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background 1s ease-in-out;
+  color: white;
+}
+
+.content {
+  text-align: center;
+  padding: 40px;
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(10px);
+  width: 90%;
+  max-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* Recent cities buttons */
+.city-buttons button {
+  background-color: rgba(255, 255, 255, 0.2);
+  border: none;
+  padding: 8px 15px;
+  margin: 5px;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.city-buttons button:hover {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+.weather-display {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.weather-display img {
+  margin: 15px 0;
+}
