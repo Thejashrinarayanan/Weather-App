@@ -24,11 +24,11 @@
 ## 🖼 Screenshots
 
 ### Home Page
-![Home Page](assets/screenshots/home.png)<img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/c8c56f9f-3c8d-4d7f-ba4d-341d763d3017" />
+<img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/c8c56f9f-3c8d-4d7f-ba4d-341d763d3017" />
 
 
 ### About Page
-![About Page](assets/screenshots/about.png)<img width="1920" height="1020" alt="about" src="https://github.com/user-attachments/assets/a7f34d9e-d9cc-4ac4-8710-6cf26c82a575" />
+<img width="1920" height="1020" alt="about" src="https://github.com/user-attachments/assets/a7f34d9e-d9cc-4ac4-8710-6cf26c82a575" />
 
 
 ---
