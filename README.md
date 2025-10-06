@@ -1,12 +1,7 @@
-Absolutely! Here’s a **clean, visually appealing README** for your Weather App project. I’ve formatted it with markdown elements like badges, images, and code blocks to make it look professional for GitHub:
-
----
-
 # 🌤 Weather App
 
-![Weather App](https://i.ibb.co/your-demo-image.png) <!-- Replace with your app screenshot -->
 
-**Live Weather Updates | Dynamic Backgrounds | Recent Cities | Mobile-Friendly**
+**Live Weather Updates | Dynamic Backgrounds | Recent Cities | User-Friendly**
 
 ---
 
@@ -31,11 +26,12 @@ Absolutely! Here’s a **clean, visually appealing README** for your Weather App
 
 ### Home Page
 
-![Home](https://i.ibb.co/your-homepage-screenshot.png)
+![Home Page](assets/screenshots/home.png)
+
 
 ### About Page
 
-![About](https://i.ibb.co/your-about-screenshot.png)
+![About Page](assets/screenshots/about.png)
 
 ---
 
@@ -115,8 +111,3 @@ weather-app/
 
 This project is **open-source** and free to use under the MIT License.
 
----
-
-If you want, I can **also make it even more visually appealing with badges, animated GIFs, and color highlights** to make your GitHub README **look like a modern project landing page**.
-
-Do you want me to do that?
