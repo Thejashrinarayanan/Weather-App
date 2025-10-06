@@ -1,13 +1,12 @@
 # 🌤 Weather App
 
-
 **Live Weather Updates | Dynamic Backgrounds | Recent Cities | User-Friendly**
 
 ---
 
 ## 🔹 Overview
 
-**Weather App** by **Thejashri Narayanan** is a modern, interactive web app that lets you check real-time weather conditions for any city worldwide. With dynamic backgrounds reflecting the weather, recent search history, and a responsive design, it feels like a smooth, mobile-friendly app experience.
+**Weather App** by **Thejashri Narayanan** is a modern, interactive web application that lets you check real-time weather conditions for any city worldwide. With dynamic backgrounds reflecting the weather, recent search history, and a responsive design, it feels like a smooth, mobile-friendly app experience.
 
 ---
 
@@ -25,13 +24,12 @@
 ## 🖼 Screenshots
 
 ### Home Page
-
-![Home Page](assets/screenshots/home.png)
+![Home Page](assets/screenshots/home.png)<img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/c8c56f9f-3c8d-4d7f-ba4d-341d763d3017" />
 
 
 ### About Page
+![About Page](assets/screenshots/about.png)<img width="1920" height="1020" alt="about" src="https://github.com/user-attachments/assets/a7f34d9e-d9cc-4ac4-8710-6cf26c82a575" />
 
-![About Page](assets/screenshots/about.png)
 
 ---
 
@@ -41,7 +39,7 @@
 
 ```bash
 git clone https://github.com/Thejashrinarayanan/weather-app.git
-```
+````
 
 2. Navigate to the project folder:
 
@@ -84,6 +82,9 @@ weather-app/
 │   ├── assets/
 │   │   ├── backgrounds/
 │   │   └── icons/
+│   │   └── screenshots/
+│   │       ├── home.png
+│   │       └── about.png
 │   ├── components/
 │   │   ├── WeatherForm.js
 │   │   ├── WeatherDisplay.js
@@ -111,3 +112,4 @@ weather-app/
 
 This project is **open-source** and free to use under the MIT License.
 
+```
